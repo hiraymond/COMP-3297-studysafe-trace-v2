@@ -1,0 +1,1 @@
+web: gunicorn StudySafe_trace.wsgi
