@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-(asj=riv9^s-(kim+b8anw@4@t$3&wfft!noo3^zo+8b758z*p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['gentle-refuge-93871.herokuapp.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['comp-3297-studysafe-trace.herokuapp.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
